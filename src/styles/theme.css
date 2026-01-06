@@ -1,0 +1,4 @@
+/* Variáveis globais da aplicação que deve sempre ser importado primeiro, em relação ao CSS global */
+:root {
+  --primary: pink;
+}

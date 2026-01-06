@@ -1,0 +1,8 @@
+/* CSS GLOBAL DA APLICAÇÃO */
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: var(--primary);
+}
